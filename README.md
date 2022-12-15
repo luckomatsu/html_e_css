@@ -1,2 +1,1 @@
-# html_e_css
-Exercícios de HTML5 e CSS3
+Bem vindo ao meu repositório de estudos de HTML e CSS
